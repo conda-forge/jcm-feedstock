@@ -1,4 +1,4 @@
-{% set version = "1.1.1" %}
+{% set version = "2.0.1" %}
 {% set python_min = "3.11.0" %} 
 
 package:
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/jcm/jcm-{{ version }}.tar.gz
-  sha256: 6e513c3f254ba03c0563957ff1eaacb6a3e12f2c507d6e99d74cd57fcfdde8aa
+  sha256: 2545511d86e20285fbffe3cb07c13d66f7979ba98f3b78c68c0ac2b5abea14b4
 
 build:
   noarch: python
