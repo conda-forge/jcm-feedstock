@@ -23,14 +23,18 @@ requirements:
   run:
     - python >={{ python_min }}
     - dinosaur-dycore
-    - flax
+    - flax >=0.12.0
     - jax-datetime
     - tree-math
     - hydra-core
     - xarray
     - pytest-cov
+    - pytest-xdist
     - sphinx
     - furo
+    - myst-parser
+    - jax-solar
+    - jax-rrtmgp >=0.2.0
 
 test:
   imports:
