@@ -3,7 +3,7 @@ About jcm-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jcm-feedstock/blob/main/LICENSE.txt)
 
-Home: https://pypi.org/project/jcm/
+Home: https://github.com/climate-analytics-lab/jax-gcm
 
 Package license: Apache-2.0
 
