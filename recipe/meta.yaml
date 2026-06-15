@@ -46,7 +46,7 @@ test:
     - python {{ python_min }}
 
 about:
-  home: https://pypi.org/project/jcm/
+  home: https://github.com/climate-analytics-lab/jax-gcm
   summary: JAX-based General Circulation Model
   license: Apache-2.0
   license_file: LICENSE
